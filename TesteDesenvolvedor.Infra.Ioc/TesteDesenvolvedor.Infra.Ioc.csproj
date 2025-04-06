@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteDesenvolvedor.Application\TesteDesenvolvedor.Application.csproj" />
+    <ProjectReference Include="..\TesteDesenvolvedor.Data\TesteDesenvolvedor.Data.csproj" />
+    <ProjectReference Include="..\TesteDesenvolvedor.Domain\TesteDesenvolvedor.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
