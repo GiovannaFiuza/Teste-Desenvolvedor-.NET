@@ -9,4 +9,4 @@ A documentação e testes da API foram feitas através do **Swagger**.
 
 ## Vídeo Giovanna Fiuza
 Aqui tem um vídeo explicando detalhadamente como o código e as tomadas de decisões foram feitas:
-https://youtu.be/nh1HrcO3ZPE
+https://youtu.be/DA71pOGoFI0
